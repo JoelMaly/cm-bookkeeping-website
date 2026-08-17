@@ -299,15 +299,6 @@ p {
   object-position: center 15%;
 }
 
-.sage-orb {
-  position: absolute;
-  width: 320px;
-  height: 320px;
-  border-radius: 50%;
-  right: -150px;
-  top: 48px;
-  background: rgba(139, 160, 128, .33);
-}
 
 .trust-panel {
   position: relative;
